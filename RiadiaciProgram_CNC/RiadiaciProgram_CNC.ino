@@ -1,3 +1,6 @@
+//Riadiaci program na ovládanie CNC zariadenia.
+// Vytvoril Ján Parilla, 2021
+
 #define stepsPerRevolution 200          //vytvorenie a inicializácia
 #define dutyCycle 0.35                  //potrebných konštánt a premenných
 #define pitch 8
